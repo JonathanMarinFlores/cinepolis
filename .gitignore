@@ -1,4 +1,4 @@
 *.pyc
-.git
+.git/
 temp/
 bower_components
